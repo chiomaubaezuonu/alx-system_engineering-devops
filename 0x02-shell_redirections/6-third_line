@@ -1,2 +1,2 @@
 #!/bin/bash
-cd \\
+head -n 3 6-third_line | tail -n 1 
